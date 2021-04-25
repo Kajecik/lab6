@@ -1,0 +1,66 @@
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.Helpers.dll
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.Razor.dll
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.Helpers.xml
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.Razor.xml
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Tomek\Desktop\Tomek\Studia\2 rok\4 semestr\Komunikacja\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\User\Downloads\GiKCK\GiKCK\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.Helpers.dll
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.Razor.dll
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.dll
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.Helpers.xml
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.Razor.xml
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.xml
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\ProjektyCsharp\drugi\Lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
